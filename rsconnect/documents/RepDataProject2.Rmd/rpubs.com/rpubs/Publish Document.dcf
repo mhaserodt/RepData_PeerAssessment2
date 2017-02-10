@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/248912/d004cad147ad40d9b264ab41ed8a2a0a
+bundleId: https://api.rpubs.com/api/v1/document/248912/d004cad147ad40d9b264ab41ed8a2a0a
+url: http://rpubs.com/mhaserodt/248912
+when: 1486743135.74856
